@@ -60,3 +60,5 @@ function createCard(question, answer, tag) {
 
   return card;
 }
+
+export default createCard;
